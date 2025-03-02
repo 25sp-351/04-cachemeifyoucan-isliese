@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "cache.h"
 
-#define CACHE_SIZE 10 // Cache Size
+#define CACHE_SIZE 100 // Cache Size
 
 typedef struct CacheNode {
     int key, value; // Rod length, Optimized Cutting Value
